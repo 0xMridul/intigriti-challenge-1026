@@ -235,6 +235,8 @@ Content-Type: application/json
 
 The €666.00 item was purchased for **€0.00**, and the full €66.00 starting credit was never spent.
 
+![PoC — alternating NIGHT20 / NEWS30 coupons reducing the cart to €0.00 and checkout receipt](assets/poc1026.png)
+
 ---
 
 ## Root cause
